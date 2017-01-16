@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = GorgSlackChat::VERSION
   s.authors     = ["Alexandre Narbonne"]
   s.email       = ["alexandre.narbonne@gadz.org"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/gadzorg/gorg_slack_chat"
   s.summary     = "Brings SlackChat to Gadz.org apps"
   s.description = "Brings https://github.com/improvi/slack-chat to Gadz.org apps"
   s.license     = "MIT"
