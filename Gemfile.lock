@@ -1,11 +1,11 @@
 PATH
   remote: .
   specs:
-    gorg_slack_chat (0.1.0)
+    gorg_slack_chat (0.1.1)
       gon (~> 6.0.0)
       jquery-rails (~> 4.2.2)
       jquery-ui-rails (~> 6.0.1)
-      rails (> 4.2.3)
+      rails (>= 4.2.3)
 
 GEM
   remote: https://rubygems.org/
