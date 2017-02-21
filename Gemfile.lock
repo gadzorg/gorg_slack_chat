@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gorg_slack_chat (0.1.2)
+    gorg_slack_chat (0.1.3)
       gon (~> 6.1.0)
       jquery-rails (~> 4.2.2)
       jquery-ui-rails (~> 6.0.1)
@@ -58,7 +58,7 @@ GEM
       json
       multi_json
       request_store (>= 1.0)
-    i18n (0.7.0)
+    i18n (0.8.0)
     jquery-rails (4.2.2)
       rails-dom-testing (>= 1, < 3)
       railties (>= 4.2.0)
